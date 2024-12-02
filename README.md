@@ -1,1 +1,1 @@
-# CS507
+# CS507 Project
